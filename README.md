@@ -112,4 +112,7 @@ Windows 7 or higher supported, with Wine for Linux optional.
 **Common installation issues?**
 Permission errors often resolved by running as admin.
 
-Now, let's proceed with Part 2 to create image prompts.
+## Read Also
+- [GnuCash Install: A Comprehensive Guide](https://github.com/taitapxe/gnucash/blob/main/README.md)
+- [How to Install QuickBooks Desktop Enterprise](https://github.com/taitapxe/quickbook/blob/main/README.md)
+- [How to Install CoinTracker: Step-by-Step Guide](https://github.com/taitapxe/quickbooks/blob/main/README.md)
